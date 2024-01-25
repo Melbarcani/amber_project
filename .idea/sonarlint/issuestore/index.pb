@@ -29,3 +29,6 @@ w
 Gsrc/main/java/fr/neosoft/record_pattern/switch_record/Exhaustivity.java,f/0/f0165ac1484da461b78127c45a599e584937eb58
 y
 Isrc/main/java/fr/neosoft/record_pattern/generecity_inference/Element.java,7/3/73c41bc3a6594d527530a4635b091d9217c14083
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302

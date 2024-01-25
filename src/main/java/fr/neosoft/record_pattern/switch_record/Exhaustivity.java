@@ -1,7 +1,7 @@
 package fr.neosoft.record_pattern.switch_record;
 
 public class Exhaustivity {
-   /* class Employe {
+    class Employe {
     }
 
     class Developpeur extends Employe {
@@ -81,5 +81,5 @@ public class Exhaustivity {
             case Pair<Projet>(ProjetMarketing pm, ProjetLogiciel pl) -> System.out.println("something");
             case Pair<Projet>(Projet p, ProjetLogiciel pl) -> System.out.println("something");
         }
-    }*/
+    }
 }
